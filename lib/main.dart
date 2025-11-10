@@ -17,6 +17,7 @@ class MyApp extends StatelessWidget {
       create: (context) => QuoteProvider(),
       child: MaterialApp(
         title: 'Quote Builder',
+        debugShowCheckedModeBanner: false,
         theme: ThemeData(
           primarySwatch: Colors.blue,
           useMaterial3: true,
