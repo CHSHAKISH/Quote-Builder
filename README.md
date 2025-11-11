@@ -29,16 +29,15 @@ Clear Action: A "Clear" button with a confirmation dialog allows the user to sta
 
 📸 Screenshots
 
-
 1. Filled Quote Form
    This screen shows the client info, the tax-mode switch, and multiple line items. All fields are disabled because this quote has been marked as "Sent".
 
-(Add your "filled form" screenshot here)
+[D:\Projects\quote_builder\images\info.png]
 
 2. Quote Preview
    This screen shows the clean, professional layout of the final quote, including the status and tax mode.
 
-(Add your "preview" screenshot here)
+[D:\Projects\quote_builder\images\quote.png]
 
 🛠️ Tech Stack
 Framework: Flutter
